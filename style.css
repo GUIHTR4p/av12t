@@ -1,3 +1,7 @@
-body{
-    background-color:blue;
+.cabecelho {
+    background-color: rgb(5, 82, 56);
+    color: rgb(194, 223, 220);
 }
+    .cabecelho-imagem{
+        width: 20%;
+    }
